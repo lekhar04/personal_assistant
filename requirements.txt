@@ -1,0 +1,7 @@
+streamlit>=1.40
+anthropic>=0.40
+google-genai>=1.0
+chromadb>=0.5
+pypdf>=4.0
+python-dotenv>=1.0
+pytest>=8.0
